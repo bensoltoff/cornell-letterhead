@@ -1,7 +1,13 @@
 ---
 title: Untitled
 format:
-  cornell-letterhead-typst: default
+  cornell-letterhead-typst:
+    name: Benjamin C. Soltoff
+    title: Lecturer in Information Science
+    email: soltoffbc@cornell.edu
+    website: http://www.bensoltoff.com
+    office: 216 Gates Hall
+    phonenumber: (607) 254-3454
 ---
 
 ## Introduction
