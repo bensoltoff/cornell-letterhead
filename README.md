@@ -1,15 +1,17 @@
-# Cornell-letterhead Format
+# Bowers-cis-letterhead Format
 
 ## Installing
 
-*TODO*: Replace the `<github-organization>` with your GitHub organization.
+_TODO_: Replace the `<github-organization>` with your GitHub organization.
 
-``` bash
-quarto use template <github-organization>/cornell-letterhead
+```bash
+quarto use template <github-organization>/bowers-cis-letterhead
 ```
 
-This will install the format extension and create an example qmd file that you can use as a starting place for your document.
+This will install the format extension and create an example qmd file
+that you can use as a starting place for your document.
 
 ## Using
 
-*TODO*: Describe how to use your format.
+_TODO_: Describe how to use your format.
+
